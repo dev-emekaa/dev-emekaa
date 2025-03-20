@@ -7,7 +7,7 @@
 	About me :
 </h2>
   
--  I am Favour Chukwuemeka Ogbanu a.k.a Hunter. A `Fullstack Software Engineer`  </br>
+-  I am Favour Chukwuemeka Ogbanu. A `Fullstack Software Engineer`  </br>
 -  I build scalable, high performing web & mobile applications, and backend systems </br>
 -  I have worked with diverse teams to build and scale amazing products. This has equipped me with the expertise needed to solve critical user painpoints in various business niches and the hands-on knowledge about the entire software lifecycle, from design to development, deployment, gathering user feedback, maintenance and scaling. </br>
 -  I genuinely love building. 👷🏾‍♂️ If I'm not working on work related projects, I am either building an amazing indie product, playing around with new technologies or building fun Opensource projects for the developer community. Some of which are publicly available here on my Github </br>
