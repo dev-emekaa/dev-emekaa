@@ -1,4 +1,4 @@
-<h1 align="center">Favour (Emeka) Ogbanu <img src="https://img.shields.io/badge/Dev-Emeka-navy"> <h1/>
+<h1 align="center">Favour Emeka Ogbanu <img src="https://img.shields.io/badge/Dev-Emeka-navy"> <h1/>
 <h2 align="center"> Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h2/> 
  
 
