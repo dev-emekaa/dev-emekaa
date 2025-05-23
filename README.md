@@ -1,36 +1,36 @@
-<h1 align="center">Favour Emeka Ogbanu <img src="https://img.shields.io/badge/Dev-Emeka-navy"> <h1/>
-<h2 align="center"> Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h2/> 
- 
+# Favour Chukwuemeka Ogbanu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-<h2 align="start">
-	About me :
-</h2>
-  
--  I am Favour Chukwuemeka Ogbanu. A `Full Stack Software Engineer`  </br>
--  I build scalable, high performing web & mobile applications, and backend systems </br>
--  I genuinely love building. 👷🏾‍♂️ If I'm not working on work related projects, I am either bootstrapping an amazing indie product, playing around with new technologies or building fun Opensource projects for the developer community. Some of which are publicly available here on my Github </br>
--  You can check out my portfolio at [techysavant.site](https://techysavant.site)  </br>
--  Besides building, I love to play chess, tennis, workout, and occasionally mess around with a guitar🎸 </br>
--  📫 How to reach me **ogbanufavour@gmail.com**  </br>
+## 👨‍💻About Me :
+👋 Hi, I’m Favour Emeka Ogbanu
+
+🖥️ I build backend systems, web and mobile apps
+
+🏛️ Computer Science Major
+
+🤝 Team Player, Open to collaborate on projects of any complexity
+
+👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new SaaS product, or building OpenSource projects for the community, some of which are available on my Github.
+
+💞️ Passionate about providing innovative solutions to complex challenges
+
+I'm open to new offers and Job Opportunities.
+You can reach out to me on WhatsApp using my line +2347011735361 or send me a mail at buildwithemeka@gmail.com. Let's connect and build awesome ideas together. Also find out more about me at https://emeka.site
 
 
-<br>
 
-<h2 align="start">
-	 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me :
-</h2>
 
-<div align="center" >
-	<a href="https://ng.linkedin.com/in/favour-ogbanu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40px" height="40px" /></a>
-	<a href="mailto:ogbanufavour@gmail.com"><img img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40px" height="40px" /></a>
-	<a href="https://twitter.com/dev_hunter_"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40px" height="40px" /></a>
+## Connect with me : <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+
+<a href="https://ng.linkedin.com/in/favour-ogbanu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40px" height="40px" /></a>
+<a href="mailto:ogbanufavour@gmail.com"><img img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40px" height="40px" /></a>
+<a href="https://twitter.com/dev_hunter_"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="40px" height="40px" /></a>
 	
 </div>
 
-<h2 align="start">
-	My Tech Stack  :
-</h2>
+
+## My Tech Stack  :
+
 
 <h4 align="start">
 	Languages  :
