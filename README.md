@@ -20,7 +20,7 @@ You can reach out to me on WhatsApp using my line +2347011735361 or send me a ma
 
 
 
-## Connect with me : <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me : 
 
 <a href="https://ng.linkedin.com/in/favour-ogbanu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40px" height="40px" /></a>
 <a href="mailto:ogbanufavour@gmail.com"><img img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40px" height="40px" /></a>
