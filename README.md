@@ -4,6 +4,8 @@
 ## 👨‍💻About Me :
 👋 Hi, I’m Favour Emeka Ogbanu
 
+🕶️ I am a Full Stack Software Engineer
+
 🖥️ I build backend systems, web and mobile apps
 
 🏛️ Computer Science Major
