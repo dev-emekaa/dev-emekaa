@@ -14,7 +14,7 @@
 
 👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or building OpenSource projects for the community, some of which are available on my Github.
 
-🤍 Passionate about providing innovative solutions to complex challenges
+🤍 Passionate about building innovative solutions that impact and transform lives.
 
 I'm open to new offers and Job Opportunities.
 You can reach out to me on WhatsApp using my line +2347011735361 or send me a mail at buildwithemeka@gmail.com. Let's connect and build awesome ideas together. Also find out more about me at https://emeka.site
