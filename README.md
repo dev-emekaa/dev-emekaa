@@ -12,7 +12,7 @@
 
 🤝 Team Player, Open to collaborate on projects of any complexity
 
-👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new SaaS product, or building OpenSource projects for the community, some of which are available on my Github.
+👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or building OpenSource projects for the community, some of which are available on my Github.
 
 🤍 Passionate about providing innovative solutions to complex challenges
 
