@@ -6,7 +6,7 @@
 
 💼 I am a Full Stack Software Engineer
 
-💻 I build backend systems, web and mobile apps
+💻 I build backend systems, web and mobile apps, and AI-powered solutions.
 
 🏛️ Computer Science Major
 
