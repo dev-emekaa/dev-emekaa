@@ -8,8 +8,6 @@
 
 🏛️ Computer Science Major
 
-🤝 Team Player, Open to collaborate on projects of any complexity
-
 👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or building and contributing to open-source projects.
 
 🤍 Passionate about building innovative solutions that impact and transform lives.
