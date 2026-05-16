@@ -10,7 +10,7 @@
 
 👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or contributing to open-source projects
 
-🤍 Passionate about building innovative solutions that impact and transform lives
+🤍 Passionate about building innovative solutions that create global impact
 
 🏗️ Want to build with me? </br>
 Then don't be a stranger. Reach out to me at buildwithemeka@gmail.com </br>
