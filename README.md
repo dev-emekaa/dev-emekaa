@@ -4,17 +4,17 @@
 
 💼 I am a Full Stack Software Engineer
 
-👨‍💻 I build web & mobile apps, backend systems, and ai agents.
+👨‍💻 I build web & mobile apps, backend systems, and ai agents
 
-🎓 B.Sc in Computer Science.
+🎓 B.Sc in Computer Science
 
-👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or building and contributing to open-source projects.
+👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or building and contributing to open-source projects
 
-🤍 Passionate about building innovative solutions that impact and transform lives.
+🤍 Passionate about building innovative solutions that impact and transform lives
 
 🏗️ Want to build with me? </br>
-Then don't be a stranger. Reach out to me at buildwithemeka@gmail.com. </br>
-Let's build awesome stuff together. 🤜🤛 
+Then don't be a stranger. Reach out to me at buildwithemeka@gmail.com </br>
+Let's build awesome stuff together 🤜🤛 
 
 You can find out more about me at 👉🏼 https://emeka.site
 
