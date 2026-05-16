@@ -4,7 +4,7 @@
 
 💼 I am a Full Stack Software Engineer
 
-👨‍💻 I build web & mobile apps, backend systems, and ai agents
+👨‍💻 I build web apps, mobile apps, backend systems, & ai agents
 
 🎓 B.Sc in Computer Science
 
