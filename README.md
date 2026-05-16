@@ -6,7 +6,7 @@
 
 👨‍💻 I build web & mobile apps, backend systems, and ai agents.
 
-🏛️ Computer Science Major
+🎓 B.Sc in Computer Science.
 
 👨🏼‍🔧 Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or building and contributing to open-source projects.
 
