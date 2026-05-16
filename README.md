@@ -16,8 +16,8 @@
 
 🤍 Passionate about building innovative solutions that impact and transform lives.
 
-🏗️ Want to build with me? 
-Then don't be a stranger. Send me a mail at buildwithemeka@gmail.com. Let's build awesome ideas together. 
+🏗️ Want to build with me? </br>
+Then don't be a stranger. Send me a mail at buildwithemeka@gmail.com. Let's build awesome stuff together. 
 
 You can find out more about me 👉🏼 at https://emeka.site
 
