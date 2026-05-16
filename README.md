@@ -1,12 +1,10 @@
 # Favour Emeka Ogbanu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-
-## 👨‍💻About Me :
 👋 Hi, I’m Favour Emeka Ogbanu
 
 💼 I am a Full Stack Software Engineer
 
-💻 I build web and mobile apps, backend systems, ai agents, and AI-powered solutions.
+👨‍💻 I build web and mobile apps, backend systems, ai agents, and AI-powered solutions.
 
 🏛️ Computer Science Major
 
