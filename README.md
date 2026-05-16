@@ -19,7 +19,7 @@
 🏗️ Want to build with me? </br>
 Then don't be a stranger. Send me a mail at buildwithemeka@gmail.com. Let's build awesome stuff together. 
 
-You can find out more about me here 👉🏼 https://emeka.site
+You can find out more about me at 👉🏼 https://emeka.site
 
 
 
