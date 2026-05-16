@@ -6,7 +6,7 @@
 
 💼 I am a Full Stack Software Engineer
 
-💻 I build backend systems, web and mobile apps, and AI-powered solutions.
+💻 I build web and mobile apps, backend systems, ai agents, and AI-powered solutions.
 
 🏛️ Computer Science Major
 
@@ -16,8 +16,10 @@
 
 🤍 Passionate about building innovative solutions that impact and transform lives.
 
-I'm open to new offers and Job Opportunities.
-You can send me a mail at buildwithemeka@gmail.com. Let's connect and build awesome ideas together. Also find out more about me at https://emeka.site
+🏗️ Want to build with me? 
+Then don't be a stranger. Send me a mail at buildwithemeka@gmail.com. Let's build awesome ideas together. 
+
+You can find out more about me 👉🏼 at https://emeka.site
 
 
 
