@@ -10,7 +10,7 @@
 
 🎓 B.Sc in Computer Science
 
-👨🏼‍🔧 I am a Serial Builder, I'm either neck-deep in work projects, spinning up a new indie product, or contributing to open-source projects
+👨🏼‍🔧 I am a Serial Builder, I'm either neck-deep in work, spinning up a new indie product, or contributing to open-source projects
 
 🤍 I am always passionate about building innovative solutions that create impact and solve real problems
 
