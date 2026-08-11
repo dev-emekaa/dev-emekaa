@@ -6,7 +6,7 @@
 
 💻 I have 6 years of professional experience helping founders & businesses build, lead, manage and scale successful & profitable software products
 
-👨‍💻 My portfolio spans across various b2b and b2c web-apps, mobile apps, ai automations & complex backend systems across various industries
+👨‍💻 My portfolio spans across various b2b and b2c web-apps, mobile apps, ai automations & backend systems across various industries
 
 🎓 B.Sc in Computer Science
 
