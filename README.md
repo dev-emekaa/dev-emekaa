@@ -8,7 +8,7 @@
 
 👨‍💻 My portfolio spans across various b2b and b2c web-apps, mobile apps, ai automations & backend systems across various industries
 
-🎓 B.Sc in Computer Science
+🎓 I have a B.Sc in Computer Science
 
 👨🏼‍🔧 I am a Serial Builder, I'm either neck-deep in work, spinning up a new indie product, or contributing to open-source projects
 
