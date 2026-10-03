@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Favour Emeka Ogbanu
 
-💼 I am a Senior Full Stack Software Engineer
+💼 A Full Stack Software Engineer
 
 💻 I have 6 years of professional experience building, and scaling successful software products for founders & businesses.
 
