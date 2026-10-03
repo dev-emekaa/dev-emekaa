@@ -4,7 +4,7 @@
 
 💼 I am a Senior Full Stack Software Engineer
 
-💻 I have 6 years of professional experience building, leading, and scaling successful software products
+💻 I have 6 years of professional experience building, and scaling successful software products for founders & businesses.
 
 👨‍💻 My portfolio spans across various b2b and b2c web-apps, mobile apps, ai automations & backend systems across various industries
 
