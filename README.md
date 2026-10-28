@@ -2,13 +2,18 @@
 
 👋 Hi, I’m Favour Emeka Ogbanu
 
-💼 Full Stack Software Engineer
-💻 6+ years of professional experience building and scaling production web, mobile, and AI products for founders and businesses
-👨‍💻 Expertise spanning B2B/B2C web, mobile, and desktop apps, e-commerce platforms, browser extensions, and AI automations across diverse industries
+💼 Full Stack Software Engineer 
+</br>
+💻 6+ years of professional experience building and scaling production web, mobile, and AI products for founders and businesses 
+</br>
+👨‍💻 Expertise spanning B2B/B2C web, mobile, and desktop apps, e-commerce platforms, browser extensions, and AI automations across diverse industries </br>
 🎓 B.Sc. in Computer Science
+</br>
 
-👨🏼‍🔧 I am a Serial Builder — I'm either neck-deep in work, spinning up a new indie project, or contributing to open-source software.
+👨🏼‍🔧 I am a Serial Builder — I'm either neck-deep in work, spinning up a new indie project, or contributing to open-source software. 
+</br>
 🤍 Passionate about building innovative solutions that create impact and solve real-world problems.
+</br>
 
 🏗️ Want to build with me? 
 Don't be a stranger! Reach out to me at buildwithemeka@gmail.com
